@@ -1,21 +1,20 @@
 # katas-daily
 Daily kata practise 
 
-## 8/8/2021
+## 9/8/2021
 
-For the very first Kata, I'm going to start simple with FizzBuzz from [AgileTechPraxis/katalog](https://github.com/AgileTechPraxis/katalog).
-
-This should be a very simple exercise to test that I've got this repo set up corretly. I also just got i3 Arch set up on my main PC again, so let's give that a test too!
+For today's Kata, I will do the same exercise as yesterday, but on my work machine instead.
 
 ### Task
 **Time:** 10 mins
 
 #### FizzBuzz
+From [AgileTechPraxis/katalog](https://github.com/AgileTechPraxis/katalog).
 
 Write a function that takes numbers from 1 to 100 and outputs them as a string, but for multiples of three returns Fizz instead of the number and for the multiples of five returns Buzz. For numbers which are multiples of both three and five returns FizzBuzz.
 
 ### Wrap up
 
-Almost everything was set up! Missed some babel stuff for Jest. My machine seems to be a little sluggish with Webstorm, something to look in to for next time.
+A little smoother today! I made sure that I kept the tests passing for the right reasons throughout. I stumbled on some situations where my function would return `undefined`. But was able to solve quickly based on feedback.
 
-In terms of the task, I made a few mistaked. When I introduced `describe.each` I didn't update the tests to use the new parameterised variables meaning I had false positive tests. This was noticed when introducing a `Fizz` test and suddenly seeing the tests pass for no reason...
+My work machine definitely feels less sluggish compared to my linux machine at home. I'm thinking the free Nvidia drivers might not be well optimised for WebStorm. I tried the nonfree ones but that completely broke my system! Will investigate more tongiht :)
