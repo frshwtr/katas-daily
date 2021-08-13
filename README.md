@@ -2,9 +2,9 @@
 
 Daily kata practise
 
-## 12/8/2021 Evening
+## 13/8/2021
 
-This evening, I was joined by [joostm020](https://github.com/joostm020) for a little pair programming exercise. We will go through the laws of TDD and solve the FizzBuzz problem, test-driven style!
+It's (nearly) the weekend! I'm going to see out the working week by doing one last kata on my work machine. The idea for today is to get used to the different shortcuts between my Mac and Linux machine.
 
 ### Task
 
@@ -20,4 +20,4 @@ returns FizzBuzz.
 
 ### Wrap up
 
-joostm020 really impressed me. They are pretty new to TDD but picked up the principles very quickly. I hope we get to pair again soon and learn more!
+I got very distracted by some things occuring at work today. But I'm not taking that as a bad thing! I observed how I performed with distractions compared to the previous katas where I was more focused. It's interesting to see how I used less Webstorm shortcuts when distracted. I guess it shows how minimising distractions helps keep you focused!
