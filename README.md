@@ -2,9 +2,9 @@
 
 Daily kata practise
 
-## 13/8/2021
+## 13/8/2021 4pm
 
-It's (nearly) the weekend! I'm going to see out the working week by doing one last kata on my work machine. The idea for today is to get used to the different shortcuts between my Mac and Linux machine.
+Okay, I've pulled myself back together now. I'm in a more focused move and I'm going to give this another shot. I'm on my Linux machine this time.
 
 ### Task
 
@@ -20,4 +20,8 @@ returns FizzBuzz.
 
 ### Wrap up
 
-I got very distracted by some things occuring at work today. But I'm not taking that as a bad thing! I observed how I performed with distractions compared to the previous katas where I was more focused. It's interesting to see how I used less Webstorm shortcuts when distracted. I guess it shows how minimising distractions helps keep you focused!
+I got a bit further this evening. I managed to introduce types. I wanted to use a type like this:
+
+```type FizzOrBuzzOrFizzBuzz = 'Fizz' | 'Buzz' | 'FizzBuzz'```
+
+But then I realised how superfluous it would be with returning a number as a string. Which is a valid output of FizzBuzz. So I just settled with `string` as the return type for this exercise.
