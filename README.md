@@ -2,13 +2,13 @@
 
 Daily kata practise
 
-## 13/8/2021 4pm
+## 16/8/2021 Evening
 
-Okay, I've pulled myself back together now. I'm in a more focused move and I'm going to give this another shot. I'm on my Linux machine this time.
+I think I went a bit hard on the weekend... definitely felt the dehydration this morning. I've recovered a little, I've had my coffee, so let's give FizzBuzz a go!
 
 ### Task
 
-**Time:** As long as we need
+**Time:** 10 mins
 
 #### FizzBuzz
 
@@ -20,8 +20,4 @@ returns FizzBuzz.
 
 ### Wrap up
 
-I got a bit further this evening. I managed to introduce types. I wanted to use a type like this:
-
-```type FizzOrBuzzOrFizzBuzz = 'Fizz' | 'Buzz' | 'FizzBuzz'```
-
-But then I realised how superfluous it would be with returning a number as a string. Which is a valid output of FizzBuzz. So I just settled with `string` as the return type for this exercise.
+Today I forced distractions by sitting in a call with my coworkers whilst we had a casual chat. My mind was definitely less focused on coding but I was able to make less mistakes than last time. Definitely think stress plays on my performance!
