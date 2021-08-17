@@ -2,11 +2,9 @@
 
 Daily kata practise
 
-## 17/8/2021 9am
+## 17/8/2021 5:30pm
 
-Today I'm going to do something a bit different: FizzBuzz, but in Bash.
-
-I'm not the best with Bash, I intent to try this over the course of a few days and see how much I can improve my Bash knowledge.
+Let's see if I can get a fully working FizzBuzz solution this time. I won't use test-driven principles just yet. Once I know how to crack the solution with the basics of bash, I'll have a look around for some bash testing strategies and try it.
 
 ### Task
 
@@ -22,6 +20,8 @@ returns FizzBuzz.
 
 ### Wrap up
 
-Lots to learn on Bash. Though today was good to understand conditionals a bit more. I didn't manage to get FizzBuzz to work but hey there's always next time.
+I got the multiple of three and five check working nicely this afternoon. I also managed to get bash functions in play. Pretty productive evening :)
 
-It would be nice to find some kind of testing framework for bash too.
+### Tomorrow
+
+My friend challenged me to try and write FizzBuzz with the least characters possible in js. Their record is 59!
