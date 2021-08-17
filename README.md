@@ -2,9 +2,11 @@
 
 Daily kata practise
 
-## 16/8/2021 Evening
+## 17/8/2021 9am
 
-I think I went a bit hard on the weekend... definitely felt the dehydration this morning. I've recovered a little, I've had my coffee, so let's give FizzBuzz a go!
+Today I'm going to do something a bit different: FizzBuzz, but in Bash.
+
+I'm not the best with Bash, I intent to try this over the course of a few days and see how much I can improve my Bash knowledge.
 
 ### Task
 
@@ -20,4 +22,6 @@ returns FizzBuzz.
 
 ### Wrap up
 
-Today I forced distractions by sitting in a call with my coworkers whilst we had a casual chat. My mind was definitely less focused on coding but I was able to make less mistakes than last time. Definitely think stress plays on my performance!
+Lots to learn on Bash. Though today was good to understand conditionals a bit more. I didn't manage to get FizzBuzz to work but hey there's always next time.
+
+It would be nice to find some kind of testing framework for bash too.
