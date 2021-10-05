@@ -2,30 +2,37 @@
 
 Daily kata practise
 
-## 30/9/2021 8:50am
+## 5/10/2021 8:50am
 
-Hello GitHub! It's been a while.
-
-I took a small hiatus from this to focus practising on sewing instead.. a very different kind of practise, but it was still worthwhile to get in the habit of practising.
-
-Today I'll try FizzBuzz in TypeScript and see where I get to.
+Let's do something different today.. new kata day!
 
 ### Task
 
 **Time:** 10 mins
 
-#### FizzBuzz
+#### Nth Fibonacci
 
 From [AgileTechPraxis/katalog](https://github.com/AgileTechPraxis/katalog).
 
-Write a function that takes numbers from 1 to 100 and outputs them as a string, but for multiples of three returns Fizz
-instead of the number and for the multiples of five returns Buzz. For numbers which are multiples of both three and five
-returns FizzBuzz.
+Write a function that generates the Fibonacci number for the Nth position implementing the method with signature:
+
+
+`int Fibonacci(int position)`
+
+
+>  First Fibonacci numbers in sequence:
+>
+>  Position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+>  --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+>  **Fibonacci** | **1** | **1** | **2** | **3** | **5** | **8** | **13** | **21** | **34**
+>
+
 
 ### Wrap up
 
-Not as rusty as I thought I would be! I did skip test driving the degrees of freedom for Fizz and instead went straight to test driving Buzz. But other than that, following TDD was a breeze.
+Some small set-up issues, looks like I forgot to commit some config files.
 
-I managed to find time to do some additional improvements such as using Enums, which I didn't find the time for before.
+I got a little bit stuck trying to get numbers smaller than two working :( A good first start to this kata. Hopefully I get a little further next time.
 
-I think it's time to try another Kata, or a different language. I'm thinking about C for next time 👀
+### Things for next time
+I'm thinking about C for next time 👀
