@@ -2,9 +2,9 @@
 
 Daily kata practise
 
-## 5/10/2021 8:50am
+## 7/10/2021 8:50am
 
-Let's do something different today.. new kata day!
+Today I will try to work on the things that I mentioned at the end of the last session.
 
 ### Task
 
@@ -30,9 +30,7 @@ Write a function that generates the Fibonacci number for the Nth position implem
 
 ### Wrap up
 
-Some small set-up issues, looks like I forgot to commit some config files.
-
-I got a little bit stuck trying to get numbers smaller than two working :( A good first start to this kata. Hopefully I get a little further next time.
+I couldn't think of another solution to keep the result of fibonacci sequence 1 or 2 at one. Using the `if` is the simplest method I could think of, but I am still wondering if there's a way to ensure it returns one for these with a mathematical formula instead of a conditional expression.
 
 ### Things for next time
 I'm thinking about C for next time 👀
